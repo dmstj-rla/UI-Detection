@@ -1,4 +1,4 @@
-# 우분투 (리눅스 환경)에서 실행되도록
+# perception/ubuntu_ui_extractor.py
 
 import pyatspi
 
