@@ -1,4 +1,4 @@
-from perception.ubuntu_ui_extractor import extract_ui_elements
+from perception.ui_extractor import extract_ui_elements
 
 
 def main():
